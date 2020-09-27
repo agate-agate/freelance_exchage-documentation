@@ -1,0 +1,11 @@
+Primary:
+#fcfbf7 - молочный - milk
+#eeede2 - слоновая кость - ivory
+#0b4f5f - тёмная волна - dark navy
+
+Secondary:
+#008083 - бирюза - teal
+
+Accents:
+#fabd03 - жёлтый - yellow
+#f33440 - коралл - coral
